@@ -1,0 +1,15 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "description": "Warmup | Raindrops",
+  "main": "script.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.1.3"
+  }
+}
