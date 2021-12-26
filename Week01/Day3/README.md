@@ -15,3 +15,11 @@ Write a Javascript program that will take a number (eg 28 or 1755 or 9, etc) and
   - In raindrop-speak, this would be a "PlingPlang".
 - 34 has neither 3, 5 nor 7 as a factor.
   - Raindrop-speak doesn't know what to make of that, so it just goes with the straightforward "34".
+
+## Setup
+
+- Copy the URL
+- Clone this repo by running `git clone _url_` (replace `_url_` with the actual URL)
+- Run `npm i` to install the [Mocha](https://mochajs.org/) test framework
+- Write your code in `index.js`
+- Run `npm test` to test your code
