@@ -1,8 +1,11 @@
 {
   "name": "day3",
   "version": "1.0.0",
-  "description": "Warmup | Raindrops",
+  "description": "Warmup – Raindrops",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "mocha"
   },
